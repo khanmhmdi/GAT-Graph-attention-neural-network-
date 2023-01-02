@@ -7,3 +7,10 @@ Attention mechanisms have been used in a variety of tasks, including natural lan
 ```
 https://paperswithcode.com/method/gat
 ```
+
+# Attention Mechanism
+<!-- ![]((https://github.com/khanmhmdi/GAT-Graph-attention-neural-network-/blob/main/giphy.gif)) -->
+<div class="text-center" style='text-align:center;'>
+            <img src="https://github.com/khanmhmdi/GAT-Graph-attention-neural-network-/blob/main/giphy.gif" width="300" height="300"  />
+                </div>
+
